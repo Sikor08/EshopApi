@@ -1,38 +1,38 @@
 [
     {   
-        "id" : 1,
+        "id_product" : 1,
         "img" : "/img/headphones.jpg",
-        "name" : "headphones",
+        "product_name" : "headphones",
         "price" : 300
     },
     {
-        "id" : 2,
+        "id_product" : 2,
         "img" : "/img/keyboard.jpg",
-        "name" : "keyboard",
+        "product_name" : "keyboard",
         "price" : 100
     },
     {
-        "id" : 3,
+        "id_product" : 3,
         "img" : "/img/mouse.png",
-        "name" : "mouse",
+        "product_name" : "mouse",
         "price" : 50
     },
     {
-        "id" : 4,
+        "id_product" : 4,
         "img" : "/img/tablet.jpg",
-        "name" : "tablet",
+        "product_name" : "tablet",
         "price" : 1000
     },
     {
-        "id" : 5,
+        "id_product" : 5,
         "img" : "/img/wheel.jpg",
-        "name" : "wheel",
+        "product_name" : "wheel",
         "price" : 800
     },
     {
-        "id" : 6,
+        "id_product" : 6,
         "img" : "/img/notebook.jpg",
-        "name" : "notebook",
+        "product_name" : "notebook",
         "price" : 15000
     }
 ]

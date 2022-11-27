@@ -1,15 +1,15 @@
 [
     {   
-        "id" : 123,
+        "id_product" : 123,
         "img" : "/img/headphones.jpg",
-        "name" : "headphones",
+        "product_name" : "headphones",
         "price" : 300,
         "quantity" : 1
     },
     {
-        "id" : 234,
+        "id_product" : 234,
         "img" : "/img/keyboard.jpg",
-        "name" : "keyboard",
+        "product_name" : "keyboard",
         "price" : 300,
         "quantity" : 1
     }
