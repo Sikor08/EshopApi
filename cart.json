@@ -4,12 +4,15 @@
     "contents": [
       {
         "id_product": 123,
+        "img" : "/img/notebook.jpg",
         "product_name": "Ноутбук",
         "price": 45600,
         "quantity": 1
       },
       {
         "id_product": 456,
+        "img" : "/img/mouse.png",
+
         "product_name": "Мышка",
         "price": 1000,
         "quantity": 1
